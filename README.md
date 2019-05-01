@@ -1,3 +1,2 @@
-#Test change#Another Change
 # BootcampSandbox
-Repository for free experimentation with github
+Repository for experimenting with github.
