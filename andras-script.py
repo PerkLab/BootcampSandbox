@@ -1,3 +1,7 @@
+"""
+This is the module documentation.
+"""
+
 # This is a test
 print("It works")
 
