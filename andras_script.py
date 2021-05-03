@@ -9,15 +9,5 @@ print("It works")
 
 print("This should work, too")
 
-# new line here
+# Some text is added
 
-"""
-This is the module documentation.
-"""
-
-# This is a test
-print("It works")
-
-# but there is a syntax error here
-
-print("This should work, too")
